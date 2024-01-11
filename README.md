@@ -1,2 +1,2 @@
 # Simple-time-application
-This application will show the time from several time zones
+This application will returns local time in New-York, Berlin, Tokyo in HTML format
